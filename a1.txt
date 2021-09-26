@@ -1,17 +1,7 @@
 Modificando por primera vez a1
-
-<<<<<<< HEAD
 C1-Master
 C2-Master
-C1R1
-C2R1
-C3R1
 C3-Master
-=======
-C1
-C2
 C1R1-Rama1
 C2R1-Rama1
 C3R1-Rama1
-
->>>>>>> rama1
